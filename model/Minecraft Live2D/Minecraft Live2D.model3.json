@@ -1,0 +1,23 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Minecraft Live2D.moc3",
+		"Textures": [
+			"Minecraft Live2D.4096/texture_00.png",
+			"Minecraft Live2D.4096/texture_01.png"
+		],
+		"DisplayInfo": "Minecraft Live2D.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

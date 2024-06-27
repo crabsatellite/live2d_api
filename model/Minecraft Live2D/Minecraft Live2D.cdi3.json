@@ -1,0 +1,345 @@
+{
+	"Version": 3,
+	"Parameters": [
+		{
+			"Id": "ParamAngleX",
+			"GroupId": "",
+			"Name": "Angle X"
+		},
+		{
+			"Id": "ParamAngleY",
+			"GroupId": "",
+			"Name": "Angle Y"
+		},
+		{
+			"Id": "ParamAngleZ",
+			"GroupId": "",
+			"Name": "Angle Z"
+		},
+		{
+			"Id": "ParamEyeROpen",
+			"GroupId": "",
+			"Name": "EyeR Open"
+		},
+		{
+			"Id": "ParamEyeRSmile",
+			"GroupId": "",
+			"Name": "EyeR Smile"
+		},
+		{
+			"Id": "ParamEyeLOpen",
+			"GroupId": "",
+			"Name": "EyeL Open"
+		},
+		{
+			"Id": "ParamEyeLSmile",
+			"GroupId": "",
+			"Name": "EyeL Smile"
+		},
+		{
+			"Id": "ParamEyeBallX",
+			"GroupId": "",
+			"Name": "Eyeball X"
+		},
+		{
+			"Id": "ParamEyeBallY",
+			"GroupId": "",
+			"Name": "Eyeball Y"
+		},
+		{
+			"Id": "ParamBrowRX",
+			"GroupId": "",
+			"Name": "BrowR X"
+		},
+		{
+			"Id": "ParamBrowRY",
+			"GroupId": "",
+			"Name": "BrowR Y"
+		},
+		{
+			"Id": "ParamBrowLX",
+			"GroupId": "",
+			"Name": "BrowL X"
+		},
+		{
+			"Id": "ParamBrowLY",
+			"GroupId": "",
+			"Name": "BrowL Y"
+		},
+		{
+			"Id": "ParamBrowRAngle",
+			"GroupId": "",
+			"Name": "BrowR Angle"
+		},
+		{
+			"Id": "ParamBrowRForm",
+			"GroupId": "",
+			"Name": "BrowR Form"
+		},
+		{
+			"Id": "ParamBrowLAngle",
+			"GroupId": "",
+			"Name": "BrowL Angle"
+		},
+		{
+			"Id": "ParamBrowLForm",
+			"GroupId": "",
+			"Name": "BrowL Form"
+		},
+		{
+			"Id": "ParamMouthForm",
+			"GroupId": "",
+			"Name": "Mouth Form"
+		},
+		{
+			"Id": "ParamMouthOpenY",
+			"GroupId": "",
+			"Name": "Mouth Open"
+		},
+		{
+			"Id": "ParamCheek",
+			"GroupId": "",
+			"Name": "Cheek"
+		},
+		{
+			"Id": "ParamBodyAngleX",
+			"GroupId": "",
+			"Name": "Body X"
+		},
+		{
+			"Id": "ParamBodyAngleY",
+			"GroupId": "",
+			"Name": "Body Y"
+		},
+		{
+			"Id": "ParamBodyAngleZ",
+			"GroupId": "",
+			"Name": "Body Z"
+		},
+		{
+			"Id": "ParamBreath",
+			"GroupId": "",
+			"Name": "Breath"
+		},
+		{
+			"Id": "ParamHairFront",
+			"GroupId": "",
+			"Name": "Hair Move Front"
+		},
+		{
+			"Id": "ParamHairSide",
+			"GroupId": "",
+			"Name": "Hair Move Side"
+		},
+		{
+			"Id": "ParamHairBack",
+			"GroupId": "",
+			"Name": "Hair Move Back"
+		},
+		{
+			"Id": "PhysicsPupils",
+			"GroupId": "",
+			"Name": "Pupils Physics"
+		},
+		{
+			"Id": "ToggleEyebrowThickness",
+			"GroupId": "",
+			"Name": "Eyebrow Thickness"
+		},
+		{
+			"Id": "ToggleEye",
+			"GroupId": "",
+			"Name": "Eye Toggle"
+		},
+		{
+			"Id": "SliderEyeHeight",
+			"GroupId": "",
+			"Name": "Eye Height"
+		},
+		{
+			"Id": "ToggleEyelash",
+			"GroupId": "",
+			"Name": "Eyelash Toggle"
+		},
+		{
+			"Id": "ToggleArms",
+			"GroupId": "",
+			"Name": "Arms Toggle"
+		},
+		{
+			"Id": "ToggleCrouch",
+			"GroupId": "",
+			"Name": "Crouch Toggle"
+		},
+		{
+			"Id": "ToggleFace",
+			"GroupId": "",
+			"Name": "Face Toggle"
+		},
+		{
+			"Id": "AnimJump",
+			"GroupId": "",
+			"Name": "Jump Animation"
+		},
+		{
+			"Id": "AnimDeath",
+			"GroupId": "",
+			"Name": "Death Animation"
+		},
+		{
+			"Id": "AnimText",
+			"GroupId": "",
+			"Name": "Text Animation"
+		},
+		{
+			"Id": "AnimDisappear",
+			"GroupId": "",
+			"Name": "Disappear Animation"
+		},
+		{
+			"Id": "AnimRed",
+			"GroupId": "",
+			"Name": "Red Animation"
+		},
+		{
+			"Id": "AnimParticlesToggle",
+			"GroupId": "",
+			"Name": "Particles Toggle Animation"
+		},
+		{
+			"Id": "AnimParticles",
+			"GroupId": "",
+			"Name": "Particles Animation"
+		},
+		{
+			"Id": "AnimParticles2",
+			"GroupId": "",
+			"Name": "Particles Animation2"
+		},
+		{
+			"Id": "AnimParticles3",
+			"GroupId": "",
+			"Name": "Particles Animation3"
+		},
+		{
+			"Id": "AnimParticlesPos",
+			"GroupId": "",
+			"Name": "Particles Position Animation"
+		},
+		{
+			"Id": "AnimRespawn",
+			"GroupId": "",
+			"Name": "Respawn Animation"
+		},
+		{
+			"Id": "ToggleMouthFront",
+			"GroupId": "",
+			"Name": "Mouth Front Toggle"
+		}
+	],
+	"ParameterGroups": [],
+	"Parts": [
+		{
+			"Id": "Part2",
+			"Name": "particles.psd"
+		},
+		{
+			"Id": "Part",
+			"Name": "minecraft death screen.png"
+		},
+		{
+			"Id": "Face_Group",
+			"Name": "Face_Group"
+		},
+		{
+			"Id": "Head_Group",
+			"Name": "Head_Group"
+		},
+		{
+			"Id": "Body_Group",
+			"Name": "Body_Group"
+		},
+		{
+			"Id": "RightArm_Group",
+			"Name": "RightArm_Group"
+		},
+		{
+			"Id": "AlexRightArm_Group",
+			"Name": "AlexRightArm_Group"
+		},
+		{
+			"Id": "LeftArm_Group",
+			"Name": "LeftArm_Group"
+		},
+		{
+			"Id": "AlexLeftArm_Group",
+			"Name": "AlexLeftArm_Group"
+		},
+		{
+			"Id": "RightLeg_Group",
+			"Name": "RightLeg_Group"
+		},
+		{
+			"Id": "LeftLeg_Group",
+			"Name": "LeftLeg_Group"
+		},
+		{
+			"Id": "Head2_Group",
+			"Name": "Head2_Group"
+		},
+		{
+			"Id": "Body2_Group",
+			"Name": "Body2_Group"
+		},
+		{
+			"Id": "RightArm2_Group",
+			"Name": "RightArm2_Group"
+		},
+		{
+			"Id": "AlexRightArm2_Group",
+			"Name": "AlexRightArm2_Group"
+		},
+		{
+			"Id": "LeftArm2_Group",
+			"Name": "LeftArm2_Group"
+		},
+		{
+			"Id": "AlexLeftArm2_Group",
+			"Name": "AlexLeftArm2_Group"
+		},
+		{
+			"Id": "RightLeg2_Group",
+			"Name": "RightLeg2_Group"
+		},
+		{
+			"Id": "LeftLeg2_Group",
+			"Name": "LeftLeg2_Group"
+		}
+	],
+	"CombinedParameters": [
+		[
+			"ParamAngleX",
+			"ParamAngleY"
+		],
+		[
+			"ParamEyeBallX",
+			"ParamEyeBallY"
+		],
+		[
+			"ParamBrowLX",
+			"ParamBrowLY"
+		],
+		[
+			"ParamBrowLAngle",
+			"ParamBrowLForm"
+		],
+		[
+			"ParamMouthForm",
+			"ParamMouthOpenY"
+		],
+		[
+			"ParamBodyAngleX",
+			"ParamBodyAngleY"
+		]
+	]
+}

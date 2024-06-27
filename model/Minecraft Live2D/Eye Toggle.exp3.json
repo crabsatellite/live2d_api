@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ToggleEye",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}
